@@ -1,5 +1,5 @@
 {
-  "display_name": "Javascript, Cucumber",
+  "display_name": "JavaScript, Cucumber",
   "image_name": "cyberdojofoundation/javascript_node_cucumber:9c303d1",
   "visible_filenames": [
     "hiker.feature",
