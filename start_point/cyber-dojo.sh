@@ -1,5 +1,5 @@
 
-PATH=/home/sandbox/node_modules/cucumber/bin:${PATH}
+PATH=/home/sandbox/node_modules/@cucumber/cucumber/bin:${PATH}
 
 if [ -f .jshintrc ]; then
   jshint --config .jshintrc *.js

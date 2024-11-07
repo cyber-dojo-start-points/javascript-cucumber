@@ -1,6 +1,6 @@
 'use strict';
 
-const {Given,When,Then} = require('cucumber');
+const {Given,When,Then} = require('@cucumber/cucumber');
 const assert = require('assert');
 const hiker = require('./hiker');
 

@@ -1,6 +1,6 @@
 {
-  "display_name": "JavaScript 21.5, Cucumber 10.1",
-  "image_name": "cyberdojofoundation/javascript_node_cucumber:b836868",
+  "display_name": "JavaScript 23.1.0, Cucumber 11.0.1",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_cucumber:66247ad",
   "visible_filenames": [
     "hiker.feature",
     "hiker.js",
