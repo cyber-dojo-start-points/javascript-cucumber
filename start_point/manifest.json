@@ -1,6 +1,6 @@
 {
-  "display_name": "JavaScript 23.7, Cucumber 11.2",
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_cucumber:30d0dec",
+  "display_name": "JavaScript 25.8, Cucumber 12.7",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_cucumber:e8513d4",
   "visible_filenames": [
     "hiker.feature",
     "hiker.js",
@@ -8,6 +8,7 @@
     "cyber-dojo.sh",
     ".jshintrc"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".js",
     ".feature"
