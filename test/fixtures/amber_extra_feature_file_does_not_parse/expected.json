@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "Parse error in \".*answer_size\\.feature\" \\([0-9]+:[0-9]+\\): unexpected end of file, expected: #DocStringSeparator, #Other$"
+  ],
+  "match_counts": {
+    "^[0-9]+ scenarios?": 0,
+    "^[0-9]+ steps?": 0,
+    "hitch-hiker playing scrabble": 0
+  },
+  "truncated": false
+}

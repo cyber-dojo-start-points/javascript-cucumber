@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^hiker_steps\\.js: line [0-9]+, col [0-9]+, Unrecoverable syntax error\\."
+  ],
+  "match_counts": {
+    "^[0-9]+ errors$": 1,
+    "^[0-9]+ scenarios?": 0,
+    "^[0-9]+ steps?": 0
+  },
+  "truncated": false
+}

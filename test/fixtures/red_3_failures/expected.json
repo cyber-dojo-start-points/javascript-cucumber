@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^\\.\\.F\\.\\.F\\.\\.F$": 1,
+    "^Failures:$": 1,
+    "AssertionError \\[ERR_ASSERTION\\]: ": 3,
+    "^3 scenarios \\(3 failed\\)$": 1,
+    "^9 steps \\(3 failed, 6 passed\\)$": 1
+  },
+  "truncated": false
+}

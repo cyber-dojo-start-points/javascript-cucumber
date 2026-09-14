@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "Undefined\\. Implement with the following snippet:$",
+    "Then\\('the hitch-hiker knows where their towel is', function \\(\\) \\{$"
+  ],
+  "match_counts": {
+    "^\\.{3}U$": 1,
+    "^1 scenario \\(1 undefined\\)$": 1,
+    "^4 steps \\(1 undefined, 3 passed\\)$": 1
+  },
+  "truncated": false
+}

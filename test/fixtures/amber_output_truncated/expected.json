@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "debug: i is 1, total is 2$"
+  ],
+  "match_counts": {
+    "^1 scenario \\(1 passed\\)$": 0,
+    "^3 steps \\(3 passed\\)$": 0,
+    "^Failures:$": 0
+  },
+  "truncated": true
+}

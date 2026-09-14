@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^hiker\\.js: line [0-9]+, col [0-9]+, Expected '===' and instead saw '=='\\.$"
+  ],
+  "match_counts": {
+    "^1 error$": 1,
+    "^[0-9]+ scenarios?": 0,
+    "^[0-9]+ steps?": 0
+  },
+  "truncated": false
+}
