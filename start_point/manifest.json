@@ -1,14 +1,14 @@
 {
-  "display_name": "JavaScript 25.8, Cucumber 12.7",
+  "display_name": "JavaScript 26.12.0, Cucumber 13.3.0",
   "language": [
     "JavaScript",
-    "25.8"
+    "26.12.0"
   ],
   "test_framework": [
     "Cucumber",
-    "12.7"
+    "13.3.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_cucumber:e8513d4",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_cucumber:84bbcd7@sha256:93709835f404d6a9a2510cd47052d6ddeaf2d6749534fff395d37d33ff1d94f5",
   "visible_filenames": [
     "hiker.feature",
     "hiker.js",

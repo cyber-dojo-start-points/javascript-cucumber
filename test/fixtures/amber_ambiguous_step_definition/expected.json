@@ -1,11 +1,11 @@
 {
   "matches": [
-    "Multiple step definitions match:$"
+    "Multiple matching step definitions found:$"
   ],
   "match_counts": {
     "^\\.{2}A$": 1,
     "^1 scenario \\(1 ambiguous\\)$": 1,
-    "^3 steps \\(1 ambiguous, 2 passed\\)$": 1
+    "^3 steps \\(2 passed, 1 ambiguous\\)$": 1
   },
   "truncated": false
 }

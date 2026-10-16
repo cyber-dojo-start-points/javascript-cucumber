@@ -1,7 +1,8 @@
 {
   "match_counts": {
     "^UUU$": 1,
-    "Undefined\\. Implement with the following snippet:$": 3,
+    "^Undefined scenarios:$": 1,
+    "^You can implement missing steps with the snippets below:$": 1,
     "^1 scenario \\(1 undefined\\)$": 1,
     "^3 steps \\(3 undefined\\)$": 1
   },
